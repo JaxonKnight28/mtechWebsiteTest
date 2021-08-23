@@ -18,3 +18,24 @@ li {
   font-family: 'Roboto', sans-serif;
   color:darkorange;
 }
+.nav {
+  background-color:black;
+  overflow:hidden;
+}
+.nav a {
+  float:left;
+  color:blue;
+  text-align: center;
+  text-decoration: none;
+  font-size:20px;
+  padding: 14px 16px;
+  font-family: 'Roboto', sans-serif;
+}
+.nav a:hover {
+  background-color: darkslategray;
+  color:back;
+}
+#test {
+  color:darkviolet;
+  font-size:30px;
+}
