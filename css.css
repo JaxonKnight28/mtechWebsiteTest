@@ -39,3 +39,7 @@ li {
   color:darkviolet;
   font-size:30px;
 }
+a {
+  text-align: center;
+  text-decoration: none;
+}
