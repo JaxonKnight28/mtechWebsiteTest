@@ -43,3 +43,9 @@ a {
   text-align: center;
   text-decoration: none;
 }
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
